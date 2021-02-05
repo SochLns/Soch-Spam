@@ -14,12 +14,12 @@ const client6 = new Discord.Client();
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
 
-client.login();
-client2.login();
-client3.login();
-client4.login();
-client5.login();
-client6.login();
+client.login("NzgxMDcyODY1NDExNDY1MjM4.YBwcsA.jDkEL3iP3r5TdkXRmNf9o4ES4PY");
+client2.login("");
+client3.login("");
+client4.login("");
+client5.login("");
+client6.login("");
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
 
