@@ -14,7 +14,7 @@ const client6 = new Discord.Client();
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
 
-client.login("NzgxMDcyODY1NDExNDY1MjM4.YBwcsA.jDkEL3iP3r5TdkXRmNf9o4ES4PY");
+client.login(process.env.Token);
 client2.login("");
 client3.login("");
 client4.login("");
